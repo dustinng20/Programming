@@ -1,0 +1,10 @@
+D:\Coding programming\C#\GRW Management\bin\Debug\GRW Management.exe.config
+D:\Coding programming\C#\GRW Management\bin\Debug\GRW Management.exe
+D:\Coding programming\C#\GRW Management\bin\Debug\GRW Management.pdb
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW_Management.Form1.resources
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW_Management.Properties.Resources.resources
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW Management.csproj.GenerateResource.cache
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW Management.csproj.CoreCompileInputs.cache
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW Management.exe
+D:\Coding programming\C#\GRW Management\obj\Debug\GRW Management.pdb
+D:\Coding programming\C#\GRW management\obj\Debug\GRW Management.csprojAssemblyReference.cache
